@@ -14,7 +14,7 @@ class _ContadorScreenState extends State<ContadorScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Challenge #1 - Dayne Hidalgo'),
+        title: const Text('Challenge #1'),
         centerTitle: true,
         
       ),
